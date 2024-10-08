@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript
 - 📫 How to reach me: ylhamshady@gmail.com
 - ⚡ Fun fact: Nothing interesting!
+- And that is all!))
 
 <!---
 Ylham-Shadyew/Ylham-Shadyew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
